@@ -1,0 +1,13 @@
+
+###
+http://localhost:8888/api/tag
+
+###
+POST http://localhost:8888/api/task
+Content-Type: application/json
+
+{
+    "id":3,
+    "name":"Become A Billionaire.",
+    "description":"Wake Up."
+}
